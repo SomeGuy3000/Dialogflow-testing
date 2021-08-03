@@ -16,7 +16,9 @@ npm run cypress
 
 For now this test is separate from cypress because of issues but maybe sun i will add new cypress command.
 
-to run existing test use command:
+You may get all your necessary from: <https://console.cloud.google.com/iam-admin/serviceaccounts/>
+
+To run existing test use command:
 
 ```
 npm run dialogflowApi
