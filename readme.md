@@ -8,7 +8,9 @@ First example how we may test Dialogflow is user interface but for first it is n
 
 To run it use command:
 
+```
 npm run cypress
+```
 
 ## Testing via api
 
@@ -16,11 +18,13 @@ For now this test is separate from cypress because of issues but maybe sun i wil
 
 to run existing test use command:
 
+```
 npm run dialogflowApi
+```
 
 ## My bot code
 
-```
+```javascript
 'use strict';
  
 const functions = require('firebase-functions');
